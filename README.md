@@ -24,7 +24,6 @@ Power and control signal distribution board. Schematic completed, PCB developmen
 
 **Advanced Digital Hardware**
 Ongoing development of a high-speed digital hardware platform, covering the complete design flow from **system architecture and component selection to schematic and multilayer PCB design**.
-
 The project focuses on **FPGA/SoC-based hardware, DDR3 memory, high-speed interfaces, signal integrity, power integrity and controlled-impedance PCB design**.
 
 ### Areas of Interest
