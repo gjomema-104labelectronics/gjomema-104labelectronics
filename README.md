@@ -28,7 +28,9 @@ The project focuses on **FPGA/SoC-based hardware, DDR3 memory & Termination, Gig
 
 ### Areas of Interest
 
-**Space · Automotive · Hardware Engineering · PCB Design · Power Electronics**
+### Areas of Interest
+
+**Space · Automotive · Medical Electronics · Hardware Engineering · PCB Design · High-Speed Digital · Power Electronics**
 
 ---
 
