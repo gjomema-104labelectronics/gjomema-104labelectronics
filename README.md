@@ -2,51 +2,34 @@
 
 **Hardware Design · Schematic · PCB Design**
 
-Electronics Hardware Engineer with a strong technical background focused on **electronic hardware development**, from system architecture and schematic design to multilayer PCB implementation.
+Electronics Hardware Engineer focused on **hardware development, schematic design and PCB layout**.
 
-Interested in **Space and Automotive electronics**, with a focus on reliable and high-performance hardware.
+Interested in **Space and Automotive electronics**, particularly in complex and high-reliability hardware systems.
 
----
+### Tools
 
-### 🛠️ Tools
+* Altium Designer
+* Siemens Mentor Xpedition
+* SolidWorks
 
-**Altium Designer** · **Siemens Mentor Xpedition** · **SolidWorks**
+### Projects
 
----
+**6-Layer Switching Power Supply**
+Completed schematic and PCB design of a 6-layer switching power supply.
 
-### 🚀 Projects
+**Power & Control Distribution Board**
+Power and control signal distribution board. Schematic completed, PCB development in progress.
 
-#### 🔋 6-Layer Switching Power Supply
+**Advanced Digital Hardware**
+Ongoing high-speed digital hardware project involving **DDR3 memory, FPGA/SoC architecture and high-speed interfaces**.
 
-Completed design of a **6-layer switching power supply**, including schematic and PCB layout.
+### Currently Learning
 
-**Focus:** Power Electronics · Multilayer PCB · Power Distribution
+Advanced digital hardware design, high-speed PCB design, signal integrity and power integrity.
 
-#### ⚡ Power & Control Distribution Board
+### Areas of Interest
 
-Power and control signal distribution board currently under development.
-
-**Focus:** Hardware Architecture · Schematic Design · PCB Design
-
-#### 🖥️ Advanced Digital Hardware
-
-Ongoing development of a high-speed digital hardware platform featuring **DDR3 memory, FPGA/SoC architecture and high-speed interfaces**.
-
-**Focus:** High-Speed Digital Design · Signal Integrity · Power Integrity · Multilayer PCB
-
----
-
-### 📚 Currently Learning
-
-Continuously developing my expertise through advanced hardware design projects and technical training, with a focus on:
-
-**High-Speed Digital Design · PCB Design · Signal Integrity · Power Integrity**
-
----
-
-### 🎯 Areas of Interest
-
-**Space · Automotive · Hardware Engineering · High-Speed Digital · Power Electronics**
+**Space · Automotive · Hardware Engineering · PCB Design · Power Electronics**
 
 ---
 
