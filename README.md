@@ -20,12 +20,12 @@ Completed schematic and PCB design of a 6-layer switching power supply.
 **Power & Control Distribution Board**
 Power and control signal distribution board. Schematic completed, PCB development in progress.
 
-**Advanced Digital Hardware**
-Ongoing high-speed digital hardware project involving **DDR3 memory, FPGA/SoC architecture and high-speed interfaces**.
-
 ### Currently Learning
 
-Advanced digital hardware design, high-speed PCB design, signal integrity and power integrity.
+**Advanced Digital Hardware**
+Ongoing development of a high-speed digital hardware platform, covering the complete design flow from **system architecture and component selection to schematic and multilayer PCB design**.
+
+The project focuses on **FPGA/SoC-based hardware, DDR3 memory, high-speed interfaces, signal integrity, power integrity and controlled-impedance PCB design**.
 
 ### Areas of Interest
 
